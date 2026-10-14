@@ -25,7 +25,7 @@ Peak means Wednesday to Friday lunch, plus Friday dinner.
 - Food ordering, delivery or takeaway: the app books tables only.
 
 ## Constraints
-- **Budget:** ₹2–4 lakh plus a ₹50k–1 lakh no-show top-up, build only. The client pays WhatsApp and hosting monthly.
+- **Budget:** agreed range (private), build only. The client pays WhatsApp and hosting monthly.
 - **Deadline:** no-show tracker within 3–4 weeks, then reminders and rebooking within 2–3 months. Neither date is fixed; a slip means more lost tables.
 - **Stage order:** the starting no-show figure must be written down before reminders go live.
 - **Messaging:** reminders go through WhatsApp's official business connection. Every message has a "Stop" option.
