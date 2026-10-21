@@ -26,7 +26,7 @@ Most AI coding setups optimise for one thing: writing code faster. But the harde
  │ spec             │──▶ │ app rescuer       │ ──▶  │ scope-creep check    │
  │ acceptance       │    │ decision detective│      │ evals + fact-checker │
  │   criteria       │    │ prototype         │      │ flight recorder      │
- │ stakeholder brief│    │                   │      │ delivery reporter    │
+ │ client brief     │    │                   │      │ delivery reporter    │
  └──────────────────┘    └───────────────────┘      └──────────────────────┘
 ```
 
@@ -56,7 +56,7 @@ Status: ✅ shipped · 🔨 in progress · 🔜 planned
 | **grill** | Interviews you about an idea until there is nothing left to guess | 🔜 |
 | **spec** | Turns the interview into a one-page spec: goals, non-goals, constraints | 🔜 |
 | **acceptance-criteria** | Testable Given/When/Then checks for every story | 🔜 |
-| **stakeholder-brief** | The same spec, rewritten for a non-technical client or founder | 🔜 |
+| **client-brief** | The same spec, rewritten for a non-technical client or founder | 🔜 |
 
 ### 2 · Sound Architecture
 *Every technical decision is made on purpose, and written down.*

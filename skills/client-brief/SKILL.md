@@ -1,5 +1,5 @@
 ---
-name: stakeholder-brief
+name: client-brief
 description: Rewrite a spec as a short brief for a non-technical client - at most 200 words, no jargon, explaining what the product does for their business and when, and ending with "Decisions we need from you" (usually 3). Use when the user wants a spec turned into a client-facing summary, update, or plain-English brief.
 ---
 
